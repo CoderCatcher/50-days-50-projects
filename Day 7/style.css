@@ -39,7 +39,7 @@ h1{
     transform:translateX(-50%);
     text-decoration: none;
     color:#fff;
-    border:#fff solid 0.1rem;
+    border:#fff solid 0.2rem;
     font-size: 1rem;
     font-weight: bold;
     text-transform: uppercase;
@@ -81,7 +81,7 @@ h1{
 }
 .split.right{
     right:0;
-background:url('https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/xbsx_top.png');
+background:url('https://compass-ssl.xbox.com/assets/7e/7e/7e7eb085-7f43-4418-9781-adfd0b01fcff.jpg?n=Hitman-3_Feature-0_XSX_767x628.jpg');
 background-repeat:no-repeat;
 background-size: cover;
 }
